@@ -1,5 +1,5 @@
 # pokerlib
-Честно взято [[https://github.com/mrska1992/pokerlib|тут]] и немного дработано напильником
+Честно взято [тут](https://github.com/mrska1992/pokerlib) и немного дработано напильником для совместимости с 3 питоном.
 
 ```python
 from pokerlib import Deck
@@ -11,11 +11,11 @@ deck = Deck(','.join((desk_cards, players_hand)))
 ```
 А потом вот так
 ```python
-print(deck.info)
+print(deck.check())
 ```
 Ну или так
 ```python
-print(deck['result_points'])
+print(deck.check('full'))
 ```
 
 # Развлекайся, крч
