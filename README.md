@@ -1,5 +1,5 @@
 # pokerlib
-Честно взято [тут](https://github.com/mrska1992/pokerlib) и немного дработано напильником для совместимости с 3 питоном.
+Честно взято [тут](https://github.com/mrska1992/pokerlib) исправлена какая-то бага и немного дработано напильником для совместимости с 3 питоном.
 
 ```python
 from pokerlib import Deck
