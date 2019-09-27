@@ -1,5 +1,5 @@
 # pokerlib
-Честно взято [[https://github.com/mrska1992/pokerlib}тут]] и немного дработано напильником
+Честно взято [[https://github.com/mrska1992/pokerlib|тут]] и немного дработано напильником
 
 ```python
 from pokerlib import Deck
